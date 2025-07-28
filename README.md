@@ -82,3 +82,13 @@ docker compose up -d
 ```
 
 Make sure both containers (iyp and chatiyp) are running on the same docker network.
+
+## Results and Analysis
+
+The results of the experiments and their analysis are available in the following formats:
+
+- **Jupyter Notebook**: A summary of the results and analysis is provided in [performance_analysis/results.ipynb](https://github.com/VasilisAndritsoudis/chatiyp/blob/main/performance_analysis/results.ipynb).
+- **Detailed Report**: A more in-depth analysis is available in the accompanying **Results Analysis PDF** file.
+
+These resources offer insights into the system's performance, evaluation metrics, and key findings.
+
